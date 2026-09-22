@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🤖 **Tech Lead @ Creatina** (Impacto Capital): LLM based training platform in production. I own the AI architecture, prompt engineering pipelines and deployment.
+- 🤖 **Software Engineer @ Impacto Capital**: leading development of an LLM based training platform in production. I own the AI architecture, prompt engineering pipelines and deployment.
 - 🏆 **Winner of one of Brazil's largest AI hackathons** (6,000+ applicants): built an autonomous browser agent that learns workflows from demonstrations.
 - 🏦 **Fintech background**: production backend APIs at **QI Tech** (fintech unicorn) and **BTG Pactual** (Latin America's largest investment bank).
 - 🎓 **CS @ Inteli** (graduating Dec 2026) with an exchange in **Creative Media and Game Technologies @ Saxion University** (Netherlands).
